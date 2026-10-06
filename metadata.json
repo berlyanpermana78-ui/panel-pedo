@@ -1,0 +1,6 @@
+{
+  "name": "BILZX CODEX",
+  "description": "CODE. RUN. BUILD. Modern developer workspace to code, run, preview, and build projects in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

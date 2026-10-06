@@ -1,0 +1,7 @@
+data/
+user-projects/
+.npm/
+*.log
+.env
+.env.*
+!.env.example
